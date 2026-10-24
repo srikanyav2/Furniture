@@ -7,8 +7,7 @@ const About = () => {
       <h2 className="text-center mb-4">About Us</h2>
 
       <p className="text-center">
-        Welcome to our furniture store! We provide high-quality furniture 
-        designed to bring comfort, style, and elegance to your home.
+        Welcome to our furniture store!
       </p>
 
       <div className="row mt-4">
